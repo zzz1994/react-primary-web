@@ -1,9 +1,14 @@
 ## 本项目实战说明
+1. [在线演示](http://qxu1590340356.my3w.com/react-primary-web/#/?_k=jxjy7a)。（目前是临时域名，可能不能访问）。
 1. 该站点是使用ES6+React+Router+fetch开发的一个新闻站点。
 2. 开发环境使用node + webpack等搭建。
 3. 本站点同时支持移动端和PC端
 4. 本项目是用于React入门的一个实战开发，还有许多功能上的细节待完善和开发。
-5. 本项目的UI是借助于[AntDesign](https://ant.design/index-cn)完成的
+5. 本项目的UI是借助于[AntDesign](https://ant.design/index-cn)完成的。
+
+### 本地开发
+1. 在终端运行webpack-dev-server命令即可在本地运行改项目，并实时监听。
+2. 运行webpack打包所有模块。
 
 ### 响应式开发
 1. 使用[react-responsive](https://github.com/contra/react-responsive)进行响应式开发。
