@@ -1,5 +1,5 @@
 ## 本项目实战说明
-1. [在线演示](http://qxu1590340356.my3w.com/react-primary-web/#/?_k=jxjy7a)。（目前是临时域名，可能不能访问）。
+1. [在线演示](http://qxu1590340356.my3w.com/react-primary-web/#/?_k=jxjy7a)。（目前是临时域名，请输入密码（19940306zzz）访问）。
 1. 该站点是使用ES6+React+Router+fetch开发的一个新闻站点。
 2. 开发环境使用node + webpack等搭建。
 3. 本站点同时支持移动端和PC端
